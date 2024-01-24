@@ -104,6 +104,9 @@
 
 
 - `git merge ten_nhanh`: Merge nhánh vào nhánh hiện tại.
+
+
+
 - `git branch -D ten_nhanh`: Xóa nhánh.
 
 ## 02. Sử dụng GitHub
