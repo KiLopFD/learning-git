@@ -39,12 +39,25 @@
 
 - `git commit -m "Nội dung..."`: Commit thay đổi vào Repository.
 
-
+![git-init](./assets/Screenshot_5.png)
 
 - `git log`: Xem lịch sử commit.
+
+![git-init](./assets/Screenshot_6.png)
+
 - `git show commit_id`: Xem chi tiết một commit.
+
+![git-init](./assets/Screenshot_7.png)
+
 - `git diff`: Xem sự thay đổi của một file.
+
+![git-init](./assets/Screenshot_8.png)
+
+
 - `gitk`: Mở dashboard xem trực quan hơn.
+
+![git-init](./assets/Screenshot_9.png)
+
 - `git checkout -- ten_file`: Bỏ đi thay đổi của file trong Working directory.
 - `git reset HEAD ten_file` hoặc `git reset ten_file`: Chuyển file từ Staging area về Working directory.
 - `git reset --soft commit_id`: Quay lại trạng thái trước commit.
