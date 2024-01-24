@@ -59,6 +59,17 @@
 ![git-init](./assets/Screenshot_9.png)
 
 - `git checkout -- ten_file`: Bỏ đi thay đổi của file trong Working directory.
+
+![git-init](./assets/Screenshot_10.png)
+> Lúc commit ban đầu
+
+![git-init](./assets/Screenshot_11.png)
+> Thêm code nhưng chưa commit(ghi nhận) sự thay đổi.
+
+![git-init](./assets/Screenshot_12.png)
+> Kết là chưa commit nên code mới thêm vào đã bị xóa do câu lệnh quay lại lần commit mới nhất.
+
+
 - `git reset HEAD ten_file` hoặc `git reset ten_file`: Chuyển file từ Staging area về Working directory.
 - `git reset --soft commit_id`: Quay lại trạng thái trước commit.
 - `git reset --mixed commit_id`: Quay lại trạng thái trước lệnh `git add`.
