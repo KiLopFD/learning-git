@@ -86,9 +86,23 @@
 
 
 - `git reset --mixed commit_id`: Quay lại trạng thái trước lệnh `git add`.
+
+![git-init](./assets/Screenshot_15.png)
+![git-init](./assets/Screenshot_17.png)
+
 - `git branch`: Xem danh sách các nhánh.
+
+![git-init](./assets/Screenshot_18.png)
+
 - `git checkout -b ten_nhanh`: Tạo và chuyển đến nhánh mới.
+
+![git-init](./assets/Screenshot_19.png)
+
 - `git checkout ten_nhanh`: Chuyển đến nhánh khác.
+
+![git-init](./assets/Screenshot_20.png)
+
+
 - `git merge ten_nhanh`: Merge nhánh vào nhánh hiện tại.
 - `git branch -D ten_nhanh`: Xóa nhánh.
 
