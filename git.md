@@ -80,6 +80,11 @@
 
 
 - `git reset --soft commit_id`: Quay lại trạng thái trước commit.
+
+![git-init](./assets/Screenshot_15.png)
+![git-init](./assets/Screenshot_16.png)
+
+
 - `git reset --mixed commit_id`: Quay lại trạng thái trước lệnh `git add`.
 - `git branch`: Xem danh sách các nhánh.
 - `git checkout -b ten_nhanh`: Tạo và chuyển đến nhánh mới.
