@@ -144,5 +144,8 @@
 - Bước 2: `git commit -m "Nội dung commit"`
 - Bước 3: `git push`
 
+![git-init](./assets/Screenshot_27.png)
+
+
 
 
