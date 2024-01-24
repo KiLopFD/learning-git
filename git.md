@@ -118,8 +118,18 @@
 
 ### 2.2. Tạo tài khoản và tạo Repository
 - Bước 1: `git remote add origin url_github_https`
+
+![git-init](./assets/Screenshot_23.png)
+
 - Bước 2: `git branch -M main`
 - Bước 3: `git push -u origin main`
+
+![git-init](./assets/Screenshot_24.png)
+![git-init](./assets/Screenshot_25.png)
+![git-init](./assets/Screenshot_26.png)
+
+
+
 
 ### 2.3. Đẩy code lần đầu lên GitHub khi project đã có Git
 - Bước 1: `git init`
