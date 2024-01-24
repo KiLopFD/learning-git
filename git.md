@@ -71,6 +71,14 @@
 
 
 - `git reset HEAD ten_file` hoặc `git reset ten_file`: Chuyển file từ Staging area về Working directory.
+
+![git-init](./assets/Screenshot_13.png)
+> Tạo ra sự thay đổi trong file main.py và đưa vào staging state
+
+![git-init](./assets/Screenshot_14.png)
+> Đưa file main.py từ Staging State về lại Working File
+
+
 - `git reset --soft commit_id`: Quay lại trạng thái trước commit.
 - `git reset --mixed commit_id`: Quay lại trạng thái trước lệnh `git add`.
 - `git branch`: Xem danh sách các nhánh.
