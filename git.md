@@ -105,6 +105,8 @@
 
 - `git merge ten_nhanh`: Merge nhánh vào nhánh hiện tại.
 
+![git-init](./assets/Screenshot_21.png)
+![git-init](./assets/Screenshot_22.png)
 
 
 - `git branch -D ten_nhanh`: Xóa nhánh.
