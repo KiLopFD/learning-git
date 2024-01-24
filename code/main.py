@@ -16,11 +16,6 @@ list_user = [
         "age": 30,
         "country": "USA"
     },
-    {
-        "name": "John",
-        "age": 30,
-        "country": "USA"
-    }
 ]
 
 print(info_user["name"])
