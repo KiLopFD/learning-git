@@ -35,9 +35,12 @@
 
 - `git add .`: Thêm tất cả các file thay đổi vào Staging area.
 
-
+![git-init](./assets/Screenshot_4.png)
 
 - `git commit -m "Nội dung..."`: Commit thay đổi vào Repository.
+
+
+
 - `git log`: Xem lịch sử commit.
 - `git show commit_id`: Xem chi tiết một commit.
 - `git diff`: Xem sự thay đổi của một file.
