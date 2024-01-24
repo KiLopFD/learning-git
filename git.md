@@ -147,5 +147,14 @@
 ![git-init](./assets/Screenshot_27.png)
 
 
+### 3. Thêm đồng đội vào dự án
+
+- Thêm đồng đội vào team dự án.
+
+![git-init](./assets/Screenshot_28.png)
+![git-init](./assets/Screenshot_29.png)
+
+
+
 
 
